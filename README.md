@@ -127,7 +127,7 @@
 
 <section id="por-unidad">
     <div class="product">
-        <img src="https://example.com/pelota-antiestrés-unidad.jpg" alt="Pelota Antiestrés">
+        <img src="https://www.ewr.pe/wp-content/uploads/2017/01/pelota-antiestres-online.jpg" alt="Pelota Antiestrés"> 
         <h2>Pelota Antiestrés - Unidad</h2>
         <p>Perfecta para llevar contigo y liberar el estrés en cualquier momento.</p>
         <p class="price">S/. 3.00 por unidad</p>
@@ -137,7 +137,7 @@
 
 <section id="por-docena">
     <div class="product">
-        <img src="https://example.com/pelota-antiestrés-docena.jpg" alt="Pelota Antiestrés Docena">
+        <img src="https://cdn.ready-market.com.tw/0a0fbe5b/Templates/pic/L-753.jpg?v=2732bc29" alt="Pelota Antiestrés Docena">
         <h2>Pelota Antiestrés - Docena</h2>
         <p>Compra la docena y ahorra. Ideal para oficinas o regalos. ¡Aprovecha la oferta!</p>
         <p class="price"><s>S/. 36.00</s> S/. 24.00 por docena</p>
